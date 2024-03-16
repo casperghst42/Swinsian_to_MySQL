@@ -1,0 +1,12 @@
+[DEFAULT]
+verbose= true
+mysql_host = mysql
+mysql_port = 3306
+mysql_root_user = root
+mysql_root_pass = rootpassword
+mysql_user = swinsian
+mysql_pass = swinsianpassword
+mysql_database = music
+mysql_table = track
+sqlite_database = /Users/user/Library/ApplicationSupport/Swinsian/Library.sqlite
+
